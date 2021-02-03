@@ -30,8 +30,8 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/ymathz/botavonzap.git
-> cd botavonzap
+> git clone https://github.com/ymathz/botavon.git
+> cd botavon
 > bash install.sh
 ```
 
